@@ -2,9 +2,7 @@
 
 <mark>Sistema distribuído e seguro</mark>
 
-SHA
-
-: Secure Hash Algorithm
+SHA: Secure Hash Algorithm
 
 ###### Blobs/Trees/Commits = objetos/metadados:
 
